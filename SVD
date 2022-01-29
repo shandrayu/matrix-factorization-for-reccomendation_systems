@@ -1,9 +1,0 @@
-import pandas as pd
-import numpy as np
-import scipy
-
-#Get and explore data
-df = pd.read_csv('C:/N/UCU/1_sem_2020/linear algebra/final project/data/MovieLens/rating.csv')
-df = df.head(100000)
-df.head()
-
