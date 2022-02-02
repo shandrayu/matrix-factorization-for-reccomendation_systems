@@ -1,1 +1,1 @@
-# Matrix factorization for reccomendation systems
+# Matrix factorization for recommendation systems
